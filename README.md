@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### [Live Demo](https://covid-19-38158.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
